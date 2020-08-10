@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ghofranebenhmaid)](https://github.com/ghofranebenhmaid/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghofranebenhmaid&hide=javascript,html)](https://github.com/ghofranebenhmaid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghofranebenhmaid&layout=compact)](https://github.com/ghofranebenhmaid/github-readme-stats)
 
 <!--
 
