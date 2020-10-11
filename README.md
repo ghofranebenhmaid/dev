@@ -1,58 +1,36 @@
 <br/>
 <br/>
 
-  <h1 align="center">  Hi 👋, I am Ghofrane! </h1>
+<img align="left" src="https://gofranebenhmaid/logoarb.svg"  width="200">
 
-  <p align="center"> 
-  
-Welcome to my page!
-  I am a Graphic Designer and Web Developer from Tunisia, living in Copenhagen Danmark. I have studied IT & Multimedia in Tunisia and have gained a lot of practical experience in Photography, Graphic Design, and Web Design. This experience I have gained through different jobs working for a political candidate’s campaign and later doing media work for them as member of the Tunisian parliament. I have also worked for a Tunisian magazine creating graphics and page layout. </p>
+[![linkedin](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ghofranebenhmaid/)
+[![instagram](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/in/ghofranebenhmaid/)
+[![web](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Web&logoColor=white&color=313131)](https://ghofrane.herokuapp.com/)
 
-<br/>
-<br/>
-
-<p align="center">
+<p>
   
-  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="70">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
+  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="30">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="30">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
   
+</p>
   
   <!--
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
 -->
-</p>
 
 <br/>
 <br/>
 <br/>
 
- <h1 align="center">  CONTACT </h1>
- <p align="center">
- <a href="mailto:ghofranebh90@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-000.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ghofranbenhmaid/"><img src="https://img.shields.io/badge/instagram-000.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ghofranebenhmaid"><img src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+ <!-- <h1 align="center">  CONTACT </h1>
+ <p align="center"> -->
 
-<p align="center">
-  
-  <br/>
-<br/>
-<br/>
-  
-  <img  width="590" height="165" src="https://github-readme-stats.vercel.app/api?username=ghofranebenhmaid&show_icons=true&hide_border=false&line_height=20&title_color=rf673&icon_color=13936c&show_owner=true"/>
-
-</p>
-
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-455-blue)
-
-
+<a href="mailto:ghofranebh90@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-000.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ghofranbenhmaid/"><img src="https://img.shields.io/badge/instagram-000.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ghofranebenhmaid"><img src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
