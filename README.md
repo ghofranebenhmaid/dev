@@ -1,9 +1,9 @@
 
-<img align="left" src="https://github.com/ghofranebenhmaid/ghofranebenhmaid/blob/master/logo-color.png" width="100">
+<img align="left" src="https://github.com/ghofranebenhmaid/ghofranebenhmaid/blob/master/logo.png" width="100">
 
 [![linkedin](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ghofranebenhmaid/)
 [![instagram](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/in/ghofranebenhmaid/)
-[![web](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Web&logoColor=white&color=313131)](https://ghofrane.herokuapp.com/)
+[![site](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Web&logoColor=white&color=313131)](https://ghofrane.herokuapp.com/)
 
 
 <p>
@@ -15,3 +15,5 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> 
 </p>
+
+
