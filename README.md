@@ -1,7 +1,6 @@
-<br/>
-<br/>
 
-<img align="left" src="https://github.com/ghofranebenhmaid/ghofranebenhmaid/blob/master/logoarb.svg"  width="200">
+
+<img align="left" src="https://github.com/ghofranebenhmaid/ghofranebenhmaid/blob/master/logo.png" >
 
 [![linkedin](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ghofranebenhmaid/)
 [![instagram](https://img.shields.io/badge/-@ghofranebenhmaid-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/in/ghofranebenhmaid/)
@@ -19,10 +18,7 @@
   
 </p>
   
-  <!--
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
--->
+
 
 <br/>
 <br/>
